@@ -55,8 +55,6 @@ student_performance_predictor
 │── README.md  
 │── statement.md  
 │── requirements.txt
- │── gen_dataset.py
-
 
 ## Accuracy
 - Logistic Regression: 99%
@@ -68,6 +66,7 @@ student_performance_predictor
 - Add more student parameters
 - Deploy online
 - Use Streamlit to build gui
+
 
 
 
