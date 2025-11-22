@@ -52,10 +52,10 @@ student_performance_predictor
 │── modules  
 │── saved_models   
 │── main.py  
-│── gen_dataset.py
 │── README.md  
 │── statement.md  
 │── requirements.txt
+│── gen_dataset.py
 
 
 ## Accuracy
@@ -68,6 +68,7 @@ student_performance_predictor
 - Add more student parameters
 - Deploy online
 - Use Streamlit to build gui
+
 
 
 
