@@ -33,6 +33,11 @@ Internal: 45
 Extracurricular: 1  
 → Prediction: **High**
 
+##Mapping Logic
+High: 0
+Low: 1
+Medium: 2
+
 ## Project Structure
 student_performance_predictor  
 │── data  
@@ -54,4 +59,5 @@ student_performance_predictor
 - Use real datasets
 - Add more student parameters
 - Deploy online
+
 - Use Streamlit to build gui
