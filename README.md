@@ -24,13 +24,13 @@ A Machine Learning model that predicts whether a student will score High, Medium
 3. Run main:
     python main.py
 
-## How to Run
+## Data Range Used For Training
 
--attendance: 40–100
--study_hours: 1–30
--assignments: 2–10
--internal: 20–50
--extra: 0–1
+- attendance: 40–100
+- study_hours: 1–30
+- assignments: 2–10
+- internal: 20–50
+- extra: 0–1
 
 
 ## Example Prediction
@@ -68,6 +68,7 @@ student_performance_predictor
 - Add more student parameters
 - Deploy online
 - Use Streamlit to build gui
+
 
 
 
