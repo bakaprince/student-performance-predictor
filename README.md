@@ -42,9 +42,9 @@ Extracurricular: 1
 → Prediction: **High**
 
 ## Mapping Logic
-High: 0
-Low: 1
-Medium: 2
+- High: 0
+- Low: 1
+- Medium: 2
 
 ## Project Structure
 student_performance_predictor  
@@ -68,6 +68,7 @@ student_performance_predictor
 - Add more student parameters
 - Deploy online
 - Use Streamlit to build gui
+
 
 
 
